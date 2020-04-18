@@ -1957,7 +1957,7 @@ plt.show()
 ```
 
 
-![png](images/output_17_0.png)
+![png](Images/output_17_0.png)
 
 
 #### For finding the column that has the most correlation with Chance of Admit column, I use corr() function, which calculates the correlation of two different data. After the calculation of the correlation, we can see from the result that the __CGPA__ metric has the most correlation with Chance of Admit. 
@@ -1968,7 +1968,7 @@ plt.show()
 
 #### As shown in above, correlation formula coefficient calculated using the above formula. 
 
-![correlation-examples.svg](images/correlation-examples.svg)
+![correlation-examples.svg](Images/correlation-examples.svg)
 
 #### The meaning of different results in correlation coefficient are:
 * A correlation coefficient of 1 means that for every positive increase in one variable, there is a positive increase of a fixed proportion in the other. For example, shoe sizes go up in (almost) perfect correlation with foot length.
@@ -3314,7 +3314,7 @@ plt.show()
 ```
 
 
-![png](images/output_30_0.png)
+![png](Images/output_30_0.png)
 
 
 
