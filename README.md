@@ -2,10 +2,13 @@
 
 <img src="Images/1200px-University_of_Tehran_logo.svg.png" width="100" align="left"/>
 
-<img src="Images/fanni.png" width="110" align="right"/>
+<img src="Images/fanni.png" width="100" align="right"/>
 
 
 <h1 style="float: center; text-align: center;"> Navid Akbari 810895023 </h1>
+
+<br>
+<br>
 
 
 ```python
